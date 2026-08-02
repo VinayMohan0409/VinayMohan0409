@@ -6,7 +6,7 @@ Aspiring ML Engineer working on world models, robotic manipulation, generative m
 
 ### 3D Latent Action World Models for Zero-Shot Robotic Manipulation
 
-Developing embodiment-agnostic latent action representations for scalable robotic world models. Current work explores particle-based 3D representations with Point Transformer architectures, dexterous-manipulation datasets, and MuJoCo simulation, with related experiments in flow-conditioned diffusion for latent-space planning.
+Developing embodiment-agnostic latent action representations for scalable robotic world models. Current work explores particle-based 3D representations with Point Transformer architectures, dexterous-manipulation datasets, and MuJoCo simulation.
 
 ## Selected Projects
 
