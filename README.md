@@ -10,7 +10,7 @@ Developing embodiment-agnostic latent action representations for scalable roboti
 
 ## Selected Projects
 
-### [Humanoid — Spatial AI & Navigation Challenge](https://jobs.ashbyhq.com/humanoid/72741997-0fbc-413c-88a8-a273272641d1)
+### [Humanoid — Spatial AI & Navigation Challenge](https://github.com/VinayMohan0409/humanoid-spatial)
 
 Built a 3D scene change-detection system using VGGT Omega for reconstruction from two viewpoints and DINOv3 features for 3D segmentation. Detects added, removed, and moved objects while accounting for viewpoint differences, occlusion, and incomplete observations.
 
