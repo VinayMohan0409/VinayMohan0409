@@ -14,7 +14,7 @@ Developing embodiment-agnostic latent action representations for scalable roboti
 
 Built a 3D scene change-detection system using VGGT Omega for reconstruction from two viewpoints and DINOv3 features for 3D segmentation. Detects added, removed, and moved objects while accounting for viewpoint differences, occlusion, and incomplete observations.
 
-### [Humanoid Robot Learning Research](https://github.com/VinayMohan0409/humanoid-submission)
+### [Humanoid: Robot Learning Research](https://github.com/VinayMohan0409/humanoid-submission)
 
 Collected 64 egocentric human video clips and co-trained a world model with 30 simulated Panda demonstrations. Used frozen DINOv3 features as latent states and learned latent actions to represent changes between frames. Evaluated goal-image planning for reaching and carrying in simulation using a separately trained inverse dynamics model.
 
