@@ -10,9 +10,13 @@ Developing embodiment-agnostic latent action representations for scalable roboti
 
 ## Selected Projects
 
-### [Humanoid — Spatial AI & Navigation Challenge](https://github.com/VinayMohan0409/humanoid-spatial)
+### [Humanoid: Spatial AI & Navigation Challenge](https://github.com/VinayMohan0409/humanoid-spatial)
 
 Built a 3D scene change-detection system using VGGT Omega for reconstruction from two viewpoints and DINOv3 features for 3D segmentation. Detects added, removed, and moved objects while accounting for viewpoint differences, occlusion, and incomplete observations.
+
+### [Humanoid Robot Learning Research](https://github.com/VinayMohan0409/humanoid-submission)
+
+Collected 64 egocentric human video clips and co-trained a world model with 30 simulated Panda demonstrations. Used frozen DINOv3 features as latent states and learned latent actions to represent changes between frames. Evaluated goal-image planning for reaching and carrying in simulation using a separately trained inverse dynamics model.
 
 ### [Real-Time Clinical Monitoring and AKI Detection](https://github.com/VinayMohan0409/SWEMLS)
 
@@ -26,7 +30,7 @@ Reframed binary classification as natural-language inference using DeBERTa, foca
 
 Compared convolutional and transfer-learning architectures for density classification from mammography images.
 
-### [Math4ML — Kryptonite-2](https://github.com/FelixBaastadBerg/Math4ML)
+### [Math4ML: Kryptonite-2](https://github.com/FelixBaastadBerg/Math4ML)
 
 Investigated the Kryptonite-2 binary-classification challenge using tuned MLPs, MLP ensembles, CNNs, and RBF-kernel SVMs across six dataset sizes. Evaluated calibration, ensemble uncertainty, and generalisation bounds, with a tuned MLP reaching about 97% accuracy on the largest dataset.
 
