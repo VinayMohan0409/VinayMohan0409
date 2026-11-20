@@ -1,12 +1,12 @@
 # Vinay Mohan
 
-Aspiring ML Engineer working on world models, robotic manipulation, generative modelling, and reliable ML systems.
+Machine Learning Engineer focused on 3D world models, robot learning, and generative modelling. My research explores cross-embodiment latent action representations for zero-shot robotic manipulation, combining Point Transformer architectures, learned dynamics, and planning in latent space. I also develop vision-based robotic systems and end-to-end machine learning applications, with experience spanning spatial AI, deep learning, and reliable ML deployment.
 
 ## Research
 
-### 3D Latent Action World Models for Zero-Shot Robotic Manipulation
+### [DexLatentWorld — 3D Cross-Embodiment Latent Action World Models](https://github.com/VinayMohan0409/DexLatentWorld)
 
-Developing embodiment-agnostic latent action representations for scalable robotic world models. Current work explores particle-based 3D representations with Point Transformer architectures, dexterous-manipulation datasets, and MuJoCo simulation.
+Developed a 3D world model for zero-shot robotic manipulation using particle-based scene representations and Point Transformer V3. Learned shared latent actions across human and robot-hand embodiments with inverse and forward dynamics models and cross-embodiment contrastive learning. Evaluated latent-space planning with CEM in simulated manipulation tasks, including the DexWM benchmark.
 
 ## Selected Projects
 
