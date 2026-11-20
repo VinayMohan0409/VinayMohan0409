@@ -4,7 +4,7 @@ Machine Learning Engineer focused on 3D world models, robot learning, and genera
 
 ## Research
 
-### [DexLatentWorld — 3D Cross-Embodiment Latent Action World Models](https://github.com/VinayMohan0409/DexLatentWorld)
+### [DexLatentWorld — 3D Cross-Embodiment Latent Action World Models](https://vinaymohan0409.github.io/DexLatentWorld/)
 
 Developed a 3D world model for zero-shot robotic manipulation using particle-based scene representations and Point Transformer V3. Learned shared latent actions across human and robot-hand embodiments with inverse and forward dynamics models and cross-embodiment contrastive learning. Evaluated latent-space planning with CEM in simulated manipulation tasks, including the DexWM benchmark.
 
@@ -38,4 +38,3 @@ Investigated the Kryptonite-2 binary-classification challenge using tuned MLPs, 
 
 Implemented a DDPM in the latent space of a pretrained VAE, including noise schedules, a time-conditioned U-Net, reverse-process sampling, and end-to-end training. Trained the model to generate plausible hot-dog images and evaluated samples using an independent image classifier.
 
-_Implementation remains private due to university assessment restrictions._
