@@ -14,10 +14,6 @@ Developed a 3D world model for zero-shot robotic manipulation using particle-bas
 
 Built a 3D scene change-detection system using VGGT Omega for reconstruction from two viewpoints and DINOv3 features for 3D segmentation. Detects added, removed, and moved objects while accounting for viewpoint differences, occlusion, and incomplete observations.
 
-### [Real-Time Clinical Monitoring and AKI Detection](https://github.com/VinayMohan0409/SWEMLS)
-
-End-to-end ML system consuming HL7 streams, performing PyTorch inference, and issuing real-time clinical alerts. Containerised with Docker and tested through service-level integration tests.
-
 ### [Latent Diffusion for Image Generation](https://github.com/VinayMohan0409/deep_learning_cw2/blob/master/dl_cw2.ipynb)
 
 Implemented a DDPM in the latent space of a pretrained VAE, including noise schedules, a time-conditioned U-Net, reverse-process sampling, and end-to-end training. Trained the model to generate plausible hot-dog images and evaluated samples using an independent image classifier.
@@ -25,6 +21,10 @@ Implemented a DDPM in the latent space of a pretrained VAE, including noise sche
 ### [Patronising and Condescending Language Detection](https://github.com/VinayMohan0409/NLP_PCL_detection)
 
 Reframed binary classification as natural-language inference using DeBERTa, focal loss, and layer-wise learning-rate decay.
+
+### [Real-Time Clinical Monitoring and AKI Detection](https://github.com/VinayMohan0409/SWEMLS)
+
+End-to-end ML system consuming HL7 streams, performing PyTorch inference, and issuing real-time clinical alerts. Containerised with Docker and tested through service-level integration tests.
 
 ### [Mammographic Density Prediction](https://github.com/VinayMohan0409/MLI_mammographic_density_prediction)
 
