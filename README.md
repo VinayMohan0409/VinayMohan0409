@@ -34,7 +34,7 @@ Compared convolutional and transfer-learning architectures for density classific
 
 Investigated the Kryptonite-2 binary-classification challenge using tuned MLPs, MLP ensembles, CNNs, and RBF-kernel SVMs across six dataset sizes. Evaluated calibration, ensemble uncertainty, and generalisation bounds, with a tuned MLP reaching about 97% accuracy on the largest dataset.
 
-### Latent Diffusion for Image Generation
+### [Latent Diffusion for Image Generation](https://github.com/VinayMohan0409/deep_learning_cw2)
 
 Implemented a DDPM in the latent space of a pretrained VAE, including noise schedules, a time-conditioned U-Net, reverse-process sampling, and end-to-end training. Trained the model to generate plausible hot-dog images and evaluated samples using an independent image classifier.
 
