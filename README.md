@@ -6,7 +6,7 @@ Machine Learning Engineer focused on 3D world models, robot learning, and genera
 
 ### [DexLatentWorld — 3D Cross-Embodiment Latent Action World Models](https://vinaymohan0409.github.io/DexLatentWorld/)
 
-Developed a 3D world model for zero-shot robotic manipulation using particle-based scene representations and Point Transformer V3. Learned shared latent actions across human and robot-hand embodiments with inverse and forward dynamics models and cross-embodiment contrastive learning. Evaluated latent-space planning with CEM in simulated manipulation tasks, including the DexWM benchmark.
+Developed a 3D world model for zero-shot robotic manipulation using particle-based scene representations and Point Transformer V3. Learned shared latent actions across human and robot-hand embodiments with inverse and forward dynamics models and cross-embodiment contrastive learning. On the DexWM benchmark, achieved 90% Reach, 92% Grasp, and 60% Place success versus DexWM's reported 72%, 58%, and 28%; demonstrated 86% real-world manipulation success across 50 trials.
 
 ## Selected Projects
 
